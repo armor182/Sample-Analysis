@@ -18,7 +18,7 @@ Primary Source: Amazon Purchase and Life Changes Dataset (Harvard Dataverse, 202
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY
 
 ### Data Cleaning
-The two datasets were joined to create a unified analytical dataset for our project, using the Survey ResponseID as the primary key. This merge combines individual purchase records with the respondent's demographic profile, allowing for a complete look at purchasing behavior. 
+The two datasets were joined to create a unified analytical dataset for my project, using the Survey ResponseID as the primary key. This merge combines individual purchase records with the respondent's demographic profile, allowing for a complete look at purchasing behavior. 
 
 Data filtering was done to focus on spending behaviors associated with gift cards. It was done through Category filtering, ensuring only records related to the purchases of **gift cards** and associated products are retained. 
 
