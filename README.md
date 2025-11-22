@@ -68,13 +68,13 @@ The bar chart illustrates the total quantity of gift cards purchased across diff
 
 
 ### Retention Analysis
-Then, to answer the research question "How often, how recently, and how much do consumers spend when purchasing gift cards?", we introduced the RFM model to answer this question. RFM model is a marketing technique used to segment consumers based on their purchasing behaviors. There are three evaluation metrics in the model:
+Then, to answer the research question "How often, how recently, and how much do consumers spend when purchasing gift cards?", I introduced the RFM model to answer this question. RFM model is a marketing technique used to segment consumers based on their purchasing behaviors. There are three evaluation metrics in the model:
 
 1. Recency (how recently the consumer bought)
 2. Frequency (how often the customer buys)
 3. Monetary (How much the customer spends)
 
-By examining these three metrics, we can gain insight into a customer's purchasing behavior, including their most recent orders and the total amount spent on the platform. This can help indicate customer segmentation on the platform and provide insights into consumer loyalty and spending patterns within the gift card category.
+By examining these three metrics, I can gain insight into a customer's purchasing behavior, including their most recent orders and the total amount spent on the platform. This can help indicate customer segmentation on the platform and provide insights into consumer loyalty and spending patterns within the gift card category.
 
 Here, we used 'filt_price' to avovid potential fraud purcahses that might influence analysis on customers' retention. 
 
