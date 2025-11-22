@@ -100,9 +100,9 @@ The heatmap visualized the score for the three evaluation metrics. The upper-rig
 
 
 ### Combo Analysis
-In this section, we investigate whether gift cards tend to be purchased on their own or alongside other related products. Specifically, we focus on gift wrap and gift envelopes, which are commonly paired with gift cards as part of a gifting bundle.
+In this section, I investigate whether gift cards tend to be purchased on their own or alongside other related products. Specifically, I focus on gift wrap and gift envelopes, which are commonly paired with gift cards as part of a gifting bundle.
 
-Because our dataset spans multiple years and customers may purchase items in separate transactions, it is difficult to determine whether products were bought together. To address this, we analyze purchase behavior at the year level: if a customer purchased both a gift card and either gift wrap or a gift envelope within the same year, we classify this as a combo purchase.
+Because the dataset spans multiple years and customers may purchase items in separate transactions, it is difficult to determine whether products were bought together. To address this, I analyze purchase behavior at the year level: if a customer purchased both a gift card and either gift wrap or a gift envelope within the same year, I classify this as a combo purchase.
 
 #### Distribution of Combo Analysis
 <img width="800" height="500" alt="5" src="https://github.com/user-attachments/assets/696ab429-a4f2-40d9-ad2a-080e9f6d85f8" />
@@ -112,6 +112,7 @@ Because our dataset spans multiple years and customers may purchase items in sep
 This project investigates gift card purchase behavior on Amazon by examining demographic patterns, seasonal trends, and individual purchasing characteristics such as frequency, total spending, recency, and cross-category purchasing.
 
 The findings show that gift cards are most commonly purchased by customers in California, male users, and the middle-age demographic group. In terms of seasonality, purchases peak in Q4, particularly in December, which aligns with the holiday gifting season. I also observe notable increases in gift card purchases during 2020–2021, likely influenced by the COVID-19 pandemic, during which people were more inclined to shop online, and sending digital gift cards became a practical way to maintain social connection while social distancing.
+
 At the individual level, customers who purchased more recently also tended to purchase more frequently and spend more overall, and higher purchase frequency was associated with higher total monetary value. In other words, I find that customers who purchased more recently are more likely to be repeat buyers, and repeat buyers tend to be the highest spenders. This pattern highlights an opportunity for targeted retention strategies. Specifically, sending timely gifting reminders or personalized prompts to recent and frequent buyers could effectively encourage continued purchasing and reinforce their existing buying behavior. In terms of combo analysis, my findings show that gift cards are most often purchased on their own, rather than as part of a larger gifting bundle with items such as gift wrap or envelopes.
 
 Overall, my analysis provides insights into gift card purchasing patterns across demographic groups, seasonal trends, and individual buying behaviors. These findings can help inform sales strategies such as regional targeting, seasonal campaign planning, and personalized promotional messaging for gift cards on Amazon.
