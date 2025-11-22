@@ -1,4 +1,3 @@
-This is the sample for NeoBoard Interview.
-Referring:
-1. 'Analysis Report' for Project Report
-2. 'Analysis Code' for Project Code
+This is the sample for the NeoBoard interview. Please refer to:
+“Analysis Report” for the project report
+“Analysis Code” for the project code
