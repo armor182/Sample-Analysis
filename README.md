@@ -76,7 +76,7 @@ Then, to answer the research question "How often, how recently, and how much do 
 
 By examining these three metrics, I can gain insight into a customer's purchasing behavior, including their most recent orders and the total amount spent on the platform. This can help indicate customer segmentation on the platform and provide insights into consumer loyalty and spending patterns within the gift card category.
 
-Here, we used 'filt_price' to avovid potential fraud purcahses that might influence analysis on customers' retention. 
+Here, I used 'filt_price' to avovid potential fraud purcahses that might influence analysis on customers' retention. 
 
 #### Frequency VS Recency Plot
 <img width="800" height="500" alt="1" src="https://github.com/user-attachments/assets/47e882af-7fc5-41c9-af51-93057da6b40b" />
